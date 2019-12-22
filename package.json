@@ -1,0 +1,31 @@
+{
+  "name": "nodegps",
+  "version": "1.0.0",
+  "description": "getting GPS data using a GPS device connected to the raspberry pi ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailalmahdi/Raspberry-Pi-4-GPS-using-Node.git"
+  },
+  "keywords": [
+    "GPS",
+    "rasberry",
+    "pi",
+    "node.js"
+  ],
+  "author": "Ismail Al.Mahdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailalmahdi/Raspberry-Pi-4-GPS-using-Node/issues"
+  },
+  "homepage": "https://github.com/ismailalmahdi/Raspberry-Pi-4-GPS-using-Node#readme",
+  "dependencies": {
+    "gps": "^0.5.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "serialport": "^8.0.5"
+  }
+}
