@@ -8,6 +8,7 @@ This code will help you setup your rasberry pi 4 to A GPS Module, before using t
 ## Setup the hadrware
 In order to setup your gps module, you have to make sure that module you are using and what is the input voltage that it is using. 
 for example I am using GY-GPS6MV2 for this configurations.
+
 | PI PINs | GPS PINs |
 | ------ | ------ |
 | PIN no.1 | VCC PIN |
